@@ -1,2 +1,3 @@
 from user_query import user_query
-from doc_ask import doc_ask
+from doc_processing import doc_processing
+from img_processing import img_processing
